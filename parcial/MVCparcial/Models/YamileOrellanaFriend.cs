@@ -6,7 +6,7 @@ namespace MVCparcial.Models
     public enum TipoUnidad
     {
         Conocido,
-        CompañeroEstudio,
+        CompañerodeEstudio,
         ColegadeTrabajo,
         Amigo,
         AmigodeInfancia,
