@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace APIparcial.Models
 {
-    public enum TipoUnidad
+    public enum TipoUnidad      //aqui debia ser el tipo en lugar de unidad
     {
         Conocido,
         CompañerodeEstudio,
